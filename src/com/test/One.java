@@ -31,7 +31,7 @@ public class One {
 	           
 	           System.out.println("Issue was resolved");
 	            
-	            
+	            System.out.println("Local  Setup");
 	            
 	        }
 	    }
