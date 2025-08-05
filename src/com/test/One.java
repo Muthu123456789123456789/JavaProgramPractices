@@ -27,7 +27,14 @@ public class One {
 	                System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
 	            }
 	            
-	           
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
+	            
+	            
+	            
 	        }
 	    }
 
