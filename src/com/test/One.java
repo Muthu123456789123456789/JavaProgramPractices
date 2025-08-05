@@ -26,6 +26,8 @@ public class One {
 	            if (entry.getValue() > 1) {
 	                System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
 	            }
+	            
+	            System.out.println(entry.getKey() + " = " + entry.getValue() + " times");
 	        }
 	    }
 
